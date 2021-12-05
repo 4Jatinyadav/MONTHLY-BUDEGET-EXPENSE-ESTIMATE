@@ -1,4 +1,4 @@
-# MONTHLY-BUDEGET-EXPENSE-ESTIMATE
+# MONTHLY-BUDGET-EXPENSE-ESTIMATE
 Monthly budget estimate you finance
 Objective:To Estimate the Personal Financial Budget at the End of the Month 
 
