@@ -9,6 +9,7 @@ With the Finance Tracker, users can easily set a budget and add up their expense
                                                YOUR MONTHLY BUDGET ESTIMATE  
                                                  
 Enter your overall monthly budget: 20000
+
 1=Add on Expense
 2=Substract on Expense
 3=Add on Revenue
