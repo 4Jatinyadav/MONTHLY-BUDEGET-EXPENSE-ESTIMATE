@@ -23,6 +23,7 @@ Overall remaining budget is:  19500
 4=Subtract on Revenue
 5=End
 3
+
 Enter the amount of additional income: 500
 Overall remaining budget is:  20000
 1=Add on Expense
