@@ -11,66 +11,123 @@ With the Finance Tracker, users can easily set a budget and add up their expense
 Enter your overall monthly budget: 20000
 
 1=Add on Expense
+
 2=Substract on Expense
+
 3=Add on Revenue
+
 4=Subtract on Revenue
+
 5=End
+
 4
+
 Enter the  amount of income to be removed: 500
+
 Overall remaining budget is:  19500
+
 1=Add on Expense
+
 2=Substract on Expense
+
 3=Add on Revenue
+
 4=Subtract on Revenue
+
 5=End
+
 3
 
 Enter the amount of additional income: 500
+
 Overall remaining budget is:  20000
+
 1=Add on Expense
+
 2=Substract on Expense
+
 3=Add on Revenue
+
 4=Subtract on Revenue
+
 5=End
+
 2
-Enter the amount to be subtracted; 500
+
+Enter the amount to be subtracted: 500
+
 Enter the frquency of expense subtracted  per month: 2
+
 Overall remaining budget is:  21000
+
 1=Add on Expense
+
 2=Substract on Expense
+
 3=Add on Revenue
+
 4=Subtract on Revenue
+
 5=End
+
 1
-Enter the expense amount500
-Enter the frquency of expense per month 2
+
+Enter the expense amount:500
+
+Enter the frquency of expense per month: 2
+
 Overall remaining budget is:  19000
+
 1=Add on Expense
+
 2=Substract on Expense
+
 3=Add on Revenue
+
 4=Subtract on Revenue
+
+
 5=End
+
 Thank you
 
 
                                                           YOUR MONTHLY BUDGET ESTIMATE                                    
 Enter your overall monthly budget: 20000
 1=Add on Expense
+
 2=Substract on Expense
+
 3=Add on Revenue
+
 4=Subtract on Revenue
+
 5=End
+
 55
+
 Wrong entry please choose other option
+
 1=Add on Expense
+
 2=Substract on Expense
+
 3=Add on Revenue
+
 4=Subtract on Revenue
+
 5=End
+
 5
+
 Thank you
+
 1=Add on Expense
+
 2=Substract on Expense
+
 3=Add on Revenue
+
 4=Subtract on Revenue
+
 5=End
